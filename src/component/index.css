@@ -1,0 +1,6 @@
+.Setingnavbar.ant-menu-dark.ant-menu-horizontal 
+> .ant-menu-item, .ant-menu-dark.ant-menu-horizontal >
+ .ant-menu-submenu{
+     width: 100px;
+     text-align: center;
+ }

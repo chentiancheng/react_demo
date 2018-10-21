@@ -1,0 +1,28 @@
+.LoginBox{
+    width: 300px;
+    margin: 100px auto;
+}
+#components-form-demo-normal-login .login-form {
+    max-width: 300px;
+  }
+  #components-form-demo-normal-login .login-form-forgot {
+    float: right;
+  }
+  #components-form-demo-normal-login .login-form-button {
+    display: block;
+   
+  }
+  .LoginBox .ant-btn-primary{
+        width: 100%;
+  }
+ .setingHome{
+
+
+ }
+ .asideLeft{
+    float: left;
+    width: 200px;
+ }
+ .asideRight{
+float: left;
+ }
